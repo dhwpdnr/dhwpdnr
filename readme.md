@@ -13,8 +13,14 @@ Platforms & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white)
+
+</br>
+</br>
+</br>
+</br>
 </br>
 
 <div align="center">
@@ -26,4 +32,4 @@ Tools
 <br/>
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=white"/>
+

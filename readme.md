@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=OH%20JE%20UK&fontSize=90)
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
 
@@ -7,3 +11,7 @@
 | ------------- | ------------- |
 
 </div>
+<br/>
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/Django-3DDC84?style=flat-square&logo=Django&logoColor=white"/>

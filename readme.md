@@ -33,5 +33,5 @@ Tools
 <br/>
 <br/>
 
-https://velog.io/@dhwpdnr
+Blog : https://velog.io/@dhwpdnr
 

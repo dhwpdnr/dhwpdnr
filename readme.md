@@ -23,18 +23,3 @@ Tools
 </br>
 </br>
 
-<div align="center">
-
-  | <a href="https://github-readme-stats.vercel.app/api?username=dhwpdnr&show_icons=true&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dhwpdnr&show_icons=true&theme=gruvbox&hide_border=true" alt="dhwpdnr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwpdnr&layout=compact&theme=gruvbox&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-</div>
-<br/>
-<br/>
-<br/>
-
-Blog : https://velog.io/@dhwpdnr
-</br>
-</br>
-</br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhwpdnr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
